@@ -1,4 +1,4 @@
-package io.github.jolkert.perch;
+package dev.jolkert.perch;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

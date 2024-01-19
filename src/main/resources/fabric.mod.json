@@ -8,7 +8,7 @@
 		"Jolkert"
 	],
 	"contact": {
-		"website": "jolkert.github.io",
+		"website": "jolkert.dev",
 		"repo": "https://github.com/Jolkert/Perch"
 	},
 	"license": "MIT",
@@ -19,7 +19,7 @@
 	],
 	"entrypoints": {
 		"main": [
-			"io.github.jolkert.perch.Perch"
+			"dev.jolkert.perch.Perch"
 		]
 	},
 	"depends": {

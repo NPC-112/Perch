@@ -1,4 +1,4 @@
-package io.github.jolkert.perch.mixin;
+package dev.jolkert.perch.mixin;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.server.network.ServerPlayerEntity;
